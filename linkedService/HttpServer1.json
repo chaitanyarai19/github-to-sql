@@ -1,0 +1,13 @@
+{
+	"name": "HttpServer1",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://api.github.com/",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	},
+	"Authorization": "Bearer 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you"
+}
