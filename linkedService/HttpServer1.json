@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://api.github.com/",
+			"url": "https://github.com/chaitanyarai19/github-to-sql",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
