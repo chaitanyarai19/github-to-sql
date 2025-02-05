@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://github.com/chaitanyarai19/github-to-sql",
+			"url": "https://raw.githubusercontent.com/chaitanyarai19/github-to-sql/refs/heads/main/emp.csv",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
